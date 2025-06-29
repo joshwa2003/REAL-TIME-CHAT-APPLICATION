@@ -49,3 +49,9 @@ This project has been an incredible learning journey that taught me the complexi
 There's exciting potential for future enhancements - adding user authentication, message persistence with a database, file sharing capabilities, private messaging, emoji reactions, or even video chat integration. For now, I'm proud of creating a fully functional, professional-grade chat application that demonstrates modern web development best practices and real-time communication technology.
 
 ### Output:
+<img width="1440" alt="Screenshot 2025-06-29 at 4 14 53 PM" src="https://github.com/user-attachments/assets/b46cbac2-1eeb-4ba8-8e70-8ae778fc15f8" />
+<img width="1440" alt="Screenshot 2025-06-29 at 4 15 01 PM" src="https://github.com/user-attachments/assets/483b8212-cf55-4dfb-a671-6218fc556733" />
+<img width="1440" alt="Screenshot 2025-06-29 at 4 15 14 PM" src="https://github.com/user-attachments/assets/2249b2b1-b25f-4c0c-b12c-a748b6a7e4da" />
+<img width="1440" alt="Screenshot 2025-06-29 at 4 15 58 PM" src="https://github.com/user-attachments/assets/b4d532ca-a600-4697-9982-c81f227de379" />
+<img width="1440" alt="Screenshot 2025-06-29 at 4 16 04 PM" src="https://github.com/user-attachments/assets/1c0219b8-992a-4aab-b430-d9705ea5d885" />
+<img width="1440" alt="Screenshot 2025-06-29 at 4 11 41 PM" src="https://github.com/user-attachments/assets/bdf0f9d1-74c1-4404-aec0-fda5257c37c5" />
